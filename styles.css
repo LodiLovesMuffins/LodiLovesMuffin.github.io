@@ -13,9 +13,6 @@ div {
     border-color: rgb(170, 255, 255);
     background-color: white;
 }
-a {
-  text-indent: 20px
-}
 a:link, a:visited {
     background-color: #f44336;
     color: white;
