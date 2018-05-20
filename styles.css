@@ -1,8 +1,7 @@
-body {
-    background-color: lightblue;
-}
+
 h1 {
     color: blue;
+    width: 300px;
     margin: auto;
 }
 h2 {
