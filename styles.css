@@ -9,11 +9,6 @@ div {
     border-width: 15px;
     border-color: rgb(170, 255, 255);
 }
-a {
-   font-size: 50px;
-   width: 300px;
-   margin: auto;
-}
 a:link, a:visited {
     background-color: #f44336;
     color: white;
