@@ -6,6 +6,7 @@ h1 {
 }
 h2 {
     color: rgb(135, 239, 255);
+    width: 300px;
     margin: auto;
 }
 h2.red {
