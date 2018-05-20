@@ -1,16 +1,19 @@
 body {
     background-color: lightblue;
-    margin: auto;
 }
 h1 {
     color: blue;
+    margin: auto;
 }
 h2 {
     color: rgb(135, 239, 255);
+    margin: auto;
 }
 h2.red {
     color: red;
+    margin: auto;
 }
 a {
    font-size: 50px;
+   margin: auto;
 }
